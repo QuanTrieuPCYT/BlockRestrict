@@ -1,0 +1,8 @@
+name: BlockRestrict
+author: Strahan
+main: com.sylvcraft.BlockRestrict
+version: 1.0
+description: Block the placement of blocks
+commands:
+  br:
+    description: Plugin command
